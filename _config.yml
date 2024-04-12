@@ -21,7 +21,7 @@ repository               : "xueewang/xueewang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "portrait.jpeg"
   name             : "Xue Wang"
   pronouns         : # example: "she/her"  
   bio              : "UCLA PhD Student"
