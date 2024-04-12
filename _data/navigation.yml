@@ -21,5 +21,5 @@ main:
   - title: "CV"
     url: /files/Xue_Wang_CV.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
