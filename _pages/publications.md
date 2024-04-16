@@ -9,7 +9,7 @@ author_profile: true
 <img src="/images/chi_2024.png" width="75" height="50" style="margin-right: 8px;"> <u>Xue Wang</u>, Zixiong Su, Jun Rekimoto, and Yang Zhang. 2024. <strong>Watch Your
 Mouth: Silent Speech Recognition with Depth Sensing</strong>. <em>In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems</em>.
 
-<img src="/images/imwut_2024.png" width="75" height="50" style="margin-right: 8px;"> <u>Xue Wang</u>, and Yang Zhang. 2024. <strong>TextureSight: Texture Detection
+<img src="/images/IMWUT_2024.png" width="75" height="50" style="margin-right: 8px;"> <u>Xue Wang</u>, and Yang Zhang. 2024. <strong>TextureSight: Texture Detection
 for Routine Activity Awareness with Wearable Laser Speckle Imaging</strong>. <em>In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>.
 
 <img src="/images/imwut_2023.png" width="75" height="50" style="margin-right: 8px;"> Xiaoying Yang, <u>Xue Wang</u>, Gaofeng Dong, Zihan Yan, Mani Srivastava, and Yang Zhang. 2023. <strong>Headar: Sensing Head Gestures for Confirmation Dialogs on Smartwatches with Wearable Millimeter-Wave Radar</strong>. <em>In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies</em>.
