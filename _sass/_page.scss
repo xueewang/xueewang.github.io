@@ -399,3 +399,44 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+.project {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.project-image {
+  width: 180px;
+  height: 100px;
+  margin-right: 40px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); /* Add this line */
+}
+
+.project-description {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  gap: 0px;
+}
+
+.project-title {
+  font-size: 1em;
+  font-weight: 500;
+  margin-bottom: 0
+}
+
+.project-authors {
+  font-size: 0.95em;
+  font-weight: 300;
+  margin-bottom: 0;
+}
+
+.project-links {
+  font-size: 0.85em;
+  font-weight: 300;
+  margin-right: 100px;
+}
