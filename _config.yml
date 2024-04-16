@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xue's Homepage"
+title                    : "Xue Wang's Homepage"
 title_separator          : "-"
 name                     : &name "Xue Wang"
 description              : &description "personal description"
@@ -24,9 +24,9 @@ author:
   avatar           : "portrait.jpeg"
   name             : "Xue Wang"
   pronouns         : # example: "she/her"  
-  bio              : "UCLA PhD Student"
+  bio              : "PhD Student @ UCLA"
   location         : "Los Angeles, California"
-  employer         : "University of California, Los Angeles"
+  employer         : "UCLA"
   uri              : # URL
   email            : "xw526@ucla.edu" 
 
