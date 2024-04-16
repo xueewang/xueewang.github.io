@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD Student in [Electrical and Computer Engineering at UCLA](https://www.ee.ucla.edu/), advised by [Prof.Yang Zhang](https://yangzhang.dev/). My research focuses on human-computer interaction in wearable sensing. My research focuses on wearable sensing for human-computer interaction. Specifically, I'm interested in silent speech recognition, activity recognition, and IoT wearable technologies with a focus on privacy-sensitive sensing. Happy to share my research with you!
+I'm a PhD Student in [Electrical and Computer Engineering at UCLA](https://www.ee.ucla.edu/), advised by [Prof.Yang Zhang](https://yangzhang.dev/). My research focuses on human-computer interaction in wearable sensing. My research focuses on wearable sensing for human-computer interaction. Specifically, I'm interested in silent speech recognition, activity recognition, and IoT wearable technologies with a focus on privacy-sensitive sensing. Happy to share my research journey with you!
 
 <h2 id='Research Projects'>Research Projects</h2>
 
