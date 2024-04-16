@@ -66,4 +66,4 @@ I'm a PhD Student in [Electrical and Computer Engineering at UCLA](https://www.e
   </div>
 </div>
 
-<h1> Get in Touch: xw526@ucla.edu</h1>
+<h5> Get in Touch: xw526@ucla.edu</h5>
