@@ -15,8 +15,17 @@ I'm a PhD Student at [Electrical and Computer Engineering, UCLA](https://www.ee.
 <div class="project">
   <img src="/images/Teaser Figure.png" alt="Project Image" class="project-image">
   <div class="project-description">
-    <p class="project-title">Watch Your Mouth: Silent Speech Recognition with Depth Sensing</p>
-    <p class="project-authors"><u>Xue Wang</u>, Zixiong Su, Jun Rekimoto, and Yang Zhang</p>
-    <p class="project-links"><a href="link-to-project">[Paper]</a> <a href="link-to-project">[Video]</a> [DOI] [Code] [Dataset] </p>
+    <div class="project-title">Watch Your Mouth: Silent Speech Recognition with Depth Sensing</div>
+    <div class="project-authors"><u>Xue Wang</u>, Zixiong Su, Jun Rekimoto, and Yang Zhang</div>
+    <div class="project-links"><a href="link-to-project">[Paper]</a> <a href="link-to-project">[Video]</a> [DOI] [Code] [Dataset] </div>
+  </div>
+</div>
+
+<div class="project">
+  <img src="/images/Teaser Figure.png" alt="Project Image" class="project-image">
+  <div class="project-description">
+    <div class="project-title">Watch Your Mouth: Silent Speech Recognition with Depth Sensing</div>
+    <div class="project-authors"><u>Xue Wang</u>, Zixiong Su, Jun Rekimoto, and Yang Zhang</div>
+    <div class="project-links"><a href="link-to-project">[Paper]</a> <a href="link-to-project">[Video]</a> [DOI] [Code] [Dataset] </div>
   </div>
 </div>
