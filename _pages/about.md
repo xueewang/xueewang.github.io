@@ -65,5 +65,3 @@ I'm a PhD Student in [Electrical and Computer Engineering at UCLA](https://www.e
     <div class="project-links"><a href="https://dl.acm.org/doi/pdf/10.1145/3411763.3451769">[Paper]</a> <a href="https://doi.org/10.1145/3411763.3451769">[DOI]</a> </div>
   </div>
 </div>
-
-<h5> Get in Touch: xw526@ucla.edu</h5>
