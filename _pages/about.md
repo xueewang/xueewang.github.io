@@ -15,7 +15,8 @@ I'm a PhD Student in [Electrical and Computer Engineering at UCLA](https://www.e
 <div class="project">
   <img src="/images/WYM.gif" alt="Project Image" class="project-image">
   <div class="project-description">
-    <div class="project-title">Watch Your Mouth: Silent Speech Recognition with Depth Sensing 🏅Honorable Mention Award (Top 5%) </div>
+    <div class="project-title">Watch Your Mouth: Silent Speech Recognition with Depth Sensing</div>
+    <div class="project_award">🏅Honorable Mention Award (Top 5%)</div>
     <div class="project-authors"><u>Xue Wang</u>, Zixiong Su, Jun Rekimoto, and Yang Zhang (CHI 2024)</div>
     <div class="project-links"><a href="https://www.hilab.dev/research/WatchYourMouth/WatchYourMouth.pdf">[Paper]</a> <a href="https://youtu.be/wm8CLepJaCg?si=ybcWvGxI9bqqrcHy">[Video]</a> <a href="https://doi.org/10.1145/3613904.3642092">[DOI]</a> [Code] [Dataset] </div>
   </div>
