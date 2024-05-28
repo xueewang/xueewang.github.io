@@ -53,7 +53,7 @@ I'm a PhD Student in [Electrical and Computer Engineering at UCLA](https://www.e
   <img src="/images/ForceSight.gif" alt="Project Image" class="project-image">
   <div class="project-description">
     <div class="project-title">ForceSight: Non-Contact Force Sensing with Laser Speckle Imaging</div>
-    <div class="project_award">🏅 Best Demo Honorable Mention Award </div>
+    <div class="project_award">😺 Best Demo Honorable Mention Award </div>
     <div class="project-authors">Siyou Pei, Pradyumna Chari, <u>Xue Wang</u>, Xiaoying Yang, Achuta Kadambi, and Yang Zhang (UIST 2022)</div>
     <div class="project-links"><a href="https://www.hilab.dev/research/ForceSight/ForceSight.pdf">[Paper]</a> <a href="https://youtu.be/ErxOZNqMSAc">[Video]</a> <a href="https://dl.acm.org/doi/10.1145/3526113.3545622">[DOI]</a> </div>
   </div>
