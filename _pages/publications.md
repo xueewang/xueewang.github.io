@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<img src="/images/chi_2025.png" width="75" height="50" style="margin-right: 8px;"> Qian Lu, Xiaoying Yang, <u>Xue Wang</u>, Jacob Sayono, Yang Zhang, and Jeeeun Kim. 2025. <strong>LumosX: 3D Printed Anisotropic Light-Transfer</strong>. <em>In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</em>.
+<img src="/images/CHI_2025.png" width="75" height="50" style="margin-right: 8px;"> Qian Lu, Xiaoying Yang, <u>Xue Wang</u>, Jacob Sayono, Yang Zhang, and Jeeeun Kim. 2025. <strong>LumosX: 3D Printed Anisotropic Light-Transfer</strong>. <em>In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</em>.
 
 <img src="/images/chi_2024.png" width="75" height="50" style="margin-right: 8px;"> <u>Xue Wang</u>, Zixiong Su, Jun Rekimoto, and Yang Zhang. 2024. <strong>Watch Your
 Mouth: Silent Speech Recognition with Depth Sensing</strong>. <em>In Proceedings of the 2024 CHI Conference on Human Factors in Computing Systems</em>.
