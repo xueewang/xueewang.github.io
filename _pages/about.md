@@ -47,7 +47,7 @@ I'm a PhD Student in [Electrical and Computer Engineering at UCLA](https://www.e
   <div class="project-description">
     <div class="project-title">LumosX: 3D Printed Anisotropic Light-Transfer</div>
     <div class="project-authors">Qian Lu, Xiaoying Yang, <u>Xue Wang</u>, Jacob Sayono, Yang Zhang, and Jeeeun Kim (CHI 2025)</div>
-    <div class="project-links"><a href="files/lumosX.pdf">[Paper]</a> <a href="https://www.youtube.com/watch?v=rQ4pxmuiLG8">[Video]</a> <a href="https://dl.acm.org/doi/10.1145/3610897">[DOI]</a> </div>
+    <div class="project-links"><a href="files/lumosX.pdf">[Paper]</a> <a href="https://www.youtube.com/watch?v=rQ4pxmuiLG8">[Video]</a> <a href="https://dl.acm.org/doi/full/10.1145/3706598.3714124">[DOI]</a> </div>
   </div>
 </div>
 
