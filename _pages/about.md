@@ -9,6 +9,8 @@ redirect_from:
 
 I'm a PhD Student in [Electrical and Computer Engineering at UCLA](https://www.ee.ucla.edu/), advised by [Prof. Yang Zhang](https://yangzhang.dev/). My research focuses on human-computer interaction in wearable sensing. Specifically, I'm interested in silent speech recognition, activity recognition, and IoT wearable technologies with a focus on privacy-sensitive sensing. Happy to share my research journey with you!
 
+🎉 News: Honored to receive the [2025 Amazon Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-fellows/)!
+
 <h2 id='Research Projects'>Selected Research Projects</h2>
 
 
