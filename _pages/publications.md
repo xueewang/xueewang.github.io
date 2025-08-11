@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<img src="/images/CHI_2025.png" width="75" height="50" style="margin-right: 8px;"> <u>Xue Wang</u>, and Yang Zhang. 2025. <strong>Invisibility Cloak: Personalized Privacy Conscious Wearable-IoT System</strong>. <em>In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology</em>.
+<img src="/images/UIST_2025.png" width="75" height="50" style="margin-right: 8px;"> <u>Xue Wang</u>, and Yang Zhang. 2025. <strong>Invisibility Cloak: Personalized Privacy Conscious Wearable-IoT System</strong>. <em>In Proceedings of the 38th Annual ACM Symposium on User Interface Software and Technology</em>.
 
 <img src="/images/CHI_2025.png" width="75" height="50" style="margin-right: 8px;"> Qian Lu, Xiaoying Yang, <u>Xue Wang</u>, Jacob Sayono, Yang Zhang, and Jeeeun Kim. 2025. <strong>LumosX: 3D Printed Anisotropic Light-Transfer</strong>. <em>In Proceedings of the 2025 CHI Conference on Human Factors in Computing Systems</em>.
 
