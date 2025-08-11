@@ -12,7 +12,14 @@ I'm a PhD Student in [Electrical and Computer Engineering at UCLA](https://www.e
 🎉 News: Honored to receive the [2025 Amazon Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-fellows/)!
 
 <h2 id='Research Projects'>Selected Research Projects</h2>
-
+<div class="project">
+  <img src="/images/website gif_1.mp4" alt="Project Image" class="project-image">
+  <div class="project-description">
+    <div class="project-title">Invisibility Cloak: Personalized Privacy Conscious Wearable-IoT System</div>
+    <div class="project-authors"><u>Xue Wang</u>, and Yang Zhang (UIST 2025)</div>
+    <div class="project-links"><a href="">[Paper (Coming Soon)]</a> <a href="">[Video (Coming Soon)]</a> <a href="https://doi.org/10.1145/3613904.3642092">[DOI]</a> <a href="">[Github]</a> <a href="">[Dataset]</a> </div>
+  </div>
+</div>
 
 <div class="project">
   <img src="/images/WYM.gif" alt="Project Image" class="project-image">
