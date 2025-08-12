@@ -429,9 +429,16 @@
   margin-bottom: 0
 }
 
+// .project-award {
+//   font-size: 0.85em;
+//   font-weight: 300;
+//   margin-bottom: 0;
+// }
+
 .project-award {
-  font-size: 0.85em;
-  font-weight: 300;
+  font-size: 0.75em;         /* smaller than before */
+  font-weight: 700;          /* bold */
+  color: #d9534f;            /* strong red, stands out */
   margin-bottom: 0;
 }
 
