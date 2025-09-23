@@ -17,7 +17,7 @@ I'm a PhD candidate in [Electrical and Computer Engineering at UCLA](https://www
   <div class="project-description">
     <div class="project-title">Invisibility Cloak: Personalized Privacy Conscious Wearable-IoT System</div>
     <div class="project-authors"><u><b>Xue Wang</b></u>, and Yang Zhang (UIST 2025)</div>
-    <div class="project-links"><a href="">[Paper (Coming Soon)]</a> <a href="">[Video]</a> <a href="https://doi.org/10.1145/3613904.3642092">[DOI]</a> <a href="https://github.com/hilab-open-source/InvisibilityCloak/tree/main">[Github]</a> <a href="https://hilab-open-source.github.io/InvisibilityCloak/">[Project Page]</a> </div>
+    <div class="project-links"><a href="https://hilab.dev/research/InvisibilityCloak/InvisibilityCloak.pdf">[Paper]</a> <a href="https://youtu.be/-UlUI3DfKUE?si=kxdshro6jzp7OOks">[Video]</a> <a href="https://doi.org/10.1145/3613904.3642092">[DOI]</a> <a href="https://github.com/hilab-open-source/InvisibilityCloak/tree/main">[Github]</a> <a href="https://hilab-open-source.github.io/InvisibilityCloak/">[Project Page]</a> </div>
   </div>
 </div>
 
