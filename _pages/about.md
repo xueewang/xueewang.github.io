@@ -27,7 +27,7 @@ I'm a PhD candidate in [Electrical and Computer Engineering at UCLA](https://www
     <div class="project-title">Watch Your Mouth: Silent Speech Recognition with Depth Sensing</div>
     <div class="project-award">🏅 Best Paper Honorable Mention Award (Top 5%)</div>
     <div class="project-authors"><u><b>Xue Wang</b></u>, Zixiong Su, Jun Rekimoto, and Yang Zhang (CHI 2024)</div>
-    <div class="project-links"><a href="files/WatchYourMouth.pdf">[Paper]</a> <a href="https://youtu.be/wm8CLepJaCg?si=ybcWvGxI9bqqrcHy">[Video]</a> <a href="https://doi.org/10.1145/3613904.3642092">[DOI]</a> <a href="https://github.com/hilab-open-source/WatchYourMouth">[Github]</a> <a href="https://drive.google.com/drive/folders/174mlRrNpxAdqMASRp7cAU4d0iCTQk7SA">[Dataset]</a> </div>
+    <div class="project-links"><a href="files/WatchYourMouth.pdf">[Paper]</a> <a href="https://youtu.be/wm8CLepJaCg?si=ybcWvGxI9bqqrcHy">[Video]</a> <a href="https://doi.org/10.1145/3613904.3642092">[DOI]</a> <a href="https://github.com/hilab-open-source/WatchYourMouth">[Github]</a> <a href="https://drive.google.com/drive/folders/174mlRrNpxAdqMASRp7cAU4d0iCTQk7SA">[Dataset]</a> <a href="https://hilab-open-source.github.io/WatchYourMouth/">[Project Page]</a> </div>
   </div>
 </div>
 
