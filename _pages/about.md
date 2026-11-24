@@ -9,7 +9,9 @@ redirect_from:
 
 I'm a PhD candidate in [Electrical and Computer Engineering at UCLA](https://www.ee.ucla.edu/), advised by [Prof. Yang Zhang](https://yangzhang.dev/). My research explores intelligent wearable systems and multimodal on-device vision AI. I focus on silent speech recognition and generation, context-aware computing, personalized privacy-preserving camera systems, and human-aligned vision-language agents. Across these projects, I aim to build wearable intelligence that thoughtfully balances privacy, usability, and real-world functionality. Happy to share my research journey with you!
 
-🎉 News: Honored to receive the [2025 Amazon Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-fellows/)!
+**🎉 News:**
+* **[11/2026]** Excited to be selected for [Rising Stars in EECS 2026–2027](https://risingstars.cs.washington.edu) hosted by the University of Washington!
+* **[07/2025]** Honored to receive the [2025 Amazon Fellowship](https://www.sciencehub.ucla.edu/2025-amazon-fellows/)!
 
 <h2 id='Research Projects'>Selected Research Projects</h2>
 <div class="project">
